@@ -1,3 +1,4 @@
+
 #input a python list of student height
 student_heights = input().split()
 for n in range(0, len(student_heights)):
